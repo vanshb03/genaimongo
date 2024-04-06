@@ -1,0 +1,33 @@
+## Versions are pinned for reliability
+
+python-dotenv==1.0.0
+#pymongo[srv]==4.6.2
+pymongo==4.6.2
+streamlit==1.32.0
+
+
+## LLMs / embeddings
+openai==1.14.2
+# llama-index==0.10.22
+# llama-index-embeddings-huggingface==0.1.4
+# llama-index-embeddings-openai== 0.1.7
+# # llama-index-embeddings-mistralai==0.1.4
+# # llama-index-llms-mistralai==0.1.7
+# llama-index-llms-openai==0.1.12
+# # llama-index-llms-llama-cpp==0.1.3
+# llama-index-vector-stores-mongodb==0.1.4
+# transformers==4.39.0
+# sentence_transformers==2.5.1
+# torch==2.2.1
+# llama-cpp-python==0.2.57
+
+
+## pdf handling
+PyPDF2==3.0.1
+pypdf==4.1.0
+
+## Utils
+ipykernel
+ipython
+chardet==5.2.0
+charset-normalizer==3.3.2
